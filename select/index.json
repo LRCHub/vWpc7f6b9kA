@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "あの夢をなぞって (Ballade Ver.)",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-02-28T02:00:21.249663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_あの夢をなぞって_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_あの夢をなぞって_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あの夢をなぞって - Ballade Ver.",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_あの夢をなぞって_-_Ballade_Ver._YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_あの夢をなぞって_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_あの夢をなぞって_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/06_あの夢をなぞって_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/07_あの夢をなぞって_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_あの夢をなぞって_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/09_あの夢をなぞって_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/10_あの夢をなぞって_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "Ayase feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/11_あの夢をなぞって_Ayase_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI, Ayase",
+      "has_synced": true,
+      "path": "select/12_あの夢をなぞって_YOASOBI,_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あの夢をなぞって (Ano Yme Wo Nozotte)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/13_あの夢をなぞって_(Ano_Yme_Wo_Nozotte)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "あの夢をなぞって - 初音ミク Ver.",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/14_あの夢をなぞって_-_初音ミク_Ver._Ayase.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "YOASOBI「あの夢をなぞって」 Official Music Video",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/15_YOASOBI「あの夢をなぞって」_Official_Music_Video_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの夢をなぞって",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_あの夢をなぞって_YOASOBI.txt"
+    }
+  ]
+}
